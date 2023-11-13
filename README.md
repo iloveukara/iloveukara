@@ -1,5 +1,18 @@
-hi i'm kara. this profile contains my school works/projs as well as personal works.
-<!---
-iloveukara/iloveukara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<html>
+  <body> 
+    <section class="a">
+      <i><b> hi i'm kara. this profile contains my school works/projs as well as personal works. </b></i>
+    </section>
+  </body>
+</html>
+
+<style> 
+  a{
+    background-image: url('https://st2.depositphotos.com/1560516/5748/v/450/depositphotos_57488429-stock-illustration-pink-shining-background.jpg');
+    background-attachment: fixed;
+    background-repeat: repeat;
+    font-family: 'Mali', cursive;
+  }
+</style>
+
+
